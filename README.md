@@ -6,7 +6,7 @@ Time comparison of three different sorting algorithm in vPython with object orie
 <br>Now sorting with array of length n = 10 :
 <img src='https://github.com/nitrous-git/sorting_algorithm_benchmark/blob/main/sorting_1.png'>
 <br>Now sorting with array of length n = 500 :
-<img src='https://github.com/nitrous-git/sorting_algorithm_benchmark/blob/main/sorting_1.png'>
+<img src='https://github.com/nitrous-git/sorting_algorithm_benchmark/blob/main/sorting_2.png'>
 <br>Time complexity analysis :<br>
 <img src='https://github.com/nitrous-git/sorting_algorithm_benchmark/blob/main/sorting_complexity_1.jpg'>
 <br>Graph representation :<br>
