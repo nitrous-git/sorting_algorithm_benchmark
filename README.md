@@ -1,5 +1,5 @@
 # sorting_algorithm_benchmark
-Time comparison of three different sorting algorithm in vPython with object oriented function. 
+Time comparison of three different sorting algorithm in vPython with object oriented programming 
 <br>Sorting random generated array with Bubble Sort, Selection Sort and Merge Sort in vPython 2.7
 <br>@ Olivier Trudel 
 <br>
